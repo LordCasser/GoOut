@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3d0b2cce3dad18deccc56664d895ad45.js"
+  "/GoOut/precache-manifest.c7a4194a3e2350af7ac6d7f11c7ce71e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "goout"});
